@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Yayayadi
+- 👋 Hi, I’m @YadiraMG
 - 👀 I’m interested in being an expert coder.
-- 🌱 I’m currently learning git hub.
-- 💞️ I’m looking to collaborate on alphaleaf.tech.
+
 - 📫 How to reach me ...
 
 <!---
